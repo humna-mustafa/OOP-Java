@@ -3,7 +3,7 @@
 ![Java](https://img.shields.io/badge/Language-Java-red)
 ![COMSATS](https://img.shields.io/badge/University-COMSATS-blue)
 ![Status](https://img.shields.io/badge/Status-Active-green)
-![Last Commit](https://img.shields.io/github/last-commit/YourUsername/OOPs-Java)
+![Last Commit](https://img.shields.io/github/last-commit/humna-mustafa/OOP-Java)
 ![Java Version](https://img.shields.io/badge/Java-17-orange)
 
 ---
