@@ -1,4 +1,11 @@
 public class Rectangle{
+double length=3;
+double width=5;
 
-double length, width;
+double calArea(){
+return length*width;
+}
+
+double calPerimeter(){
+return 2*(length+width);}
 }
