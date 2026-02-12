@@ -11,11 +11,11 @@ public static void main(String arg[]){
 
 int number = 5;
 if (number>0) 
-  System.out.println("The number is positive");
+  System.out.println("\nThe number is positive");
 else if (number<0) 
-  System.out.println("The number is negative");
+  System.out.println("\nThe number is negative");
  else 
-  System.out.println("The number is zero");
+  System.out.println("\nThe number is zero");
         
 // Traingle Pattern
 
